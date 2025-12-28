@@ -1,0 +1,5 @@
+{
+  "name": "MosDNS Admin UI",
+  "description": "A sophisticated, modern web interface for managing and visualizing MosDNS configurations, featuring real-time traffic analytics and an AI-powered configuration assistant.",
+  "requestFramePermissions": []
+}
